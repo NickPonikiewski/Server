@@ -1,0 +1,6 @@
+\\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\CIS427Server\CIS427Server\bin\Debug\CIS427Server.exe.config
+\\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\CIS427Server\CIS427Server\bin\Debug\CIS427Server.exe
+\\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\CIS427Server\CIS427Server\bin\Debug\CIS427Server.pdb
+\\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\CIS427Server\CIS427Server\obj\Debug\CIS427Server.csprojResolveAssemblyReference.cache
+\\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\CIS427Server\CIS427Server\obj\Debug\CIS427Server.exe
+\\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\CIS427Server\CIS427Server\obj\Debug\CIS427Server.pdb
